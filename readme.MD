@@ -1,10 +1,8 @@
-# Hi there
+# lxi
 
-I'm lxi (dreadful#5794), a developer from the US!
+hi am lxi owner of summrs and pro python  ~~skid~~ coder
 
-I make projects for fun, and may post them here time to time.
+if u need help w/ smth just create an issue and ill respond ig
 
-# Contact
 
-If you need to contact me, send me a friend request at dreadful#5794, and I'll accept it!
-
+<3
