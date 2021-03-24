@@ -5,6 +5,7 @@ hi am lxi owner of summrs and pro python  ~~skid~~ coder
 
 if u need help w/ smth just create an issue and ill respond ig
 
+i also semi know golang, java, and rust
 
 <3
 
