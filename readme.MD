@@ -1,6 +1,6 @@
 # lxi
 
-# NEW DISCORD: lxi#1501
+# NEW DISCORD: lxi#1337
 hello, I'm lxi; owner of summrs and pro python ~~skid~~ coder
 
 if u need help w/ smth just create an issue and ill respond ig
