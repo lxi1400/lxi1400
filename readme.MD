@@ -1,14 +1,6 @@
 # lxi
 
-# NEW DISCORD: lxi#1400
-hello, I'm lxi; owner of summrs and pro python ~~skid~~ coder
-
-if u need help w/ smth just create an issue and ill respond ig
-
-i also semi know golang, java, and rust
-
-<3
-
+# if u need smth add lxi1400 on snap
 
 # Stats
 ![c](https://github-readme-stats.vercel.app/api/top-langs/?username=lxi1400&layout=compact&theme=dark) </br>
