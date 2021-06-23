@@ -3,7 +3,7 @@
 
 # Stats
 ![c](https://github-readme-stats.vercel.app/api/top-langs/?username=lxi1400&layout=compact&theme=dark) 
-![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
+#![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
 
 # Contact
 lxi#1400 - Discord
