@@ -17,3 +17,9 @@ lxi1400 - Snap </br>
 @lxi1400 - Telegram </br>
 @lxi1400 - Instagram </br>
 
+# lxi#1400
+<p align="center">
+  <a href="https://github.com/lxi1400">
+    <img src="https://data.whicdn.com/images/353981537/original.gif"/>
+     </a>
+</p>
