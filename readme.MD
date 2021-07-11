@@ -1,3 +1,5 @@
+# I GOT DISABLED ADD lxi#9999
+
 # lxi
 
 <p align="center">
@@ -12,7 +14,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
 
 # Contact
-lxi#1400 - Discord </br>
+lxi#999 - Discord </br>
 lxi1400 - Snap </br>
 @lxi1400 - Telegram </br>
 @lxi1400 - Instagram </br>
