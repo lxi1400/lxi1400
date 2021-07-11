@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/lxi1400">
-    <img src="https://discord.c99.nl/widget/theme-4/851156718346960978.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/694997766539182092.png"/>
      </a>
 </p>
 
