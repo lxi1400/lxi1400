@@ -1,5 +1,3 @@
-# I GOT DISABLED ADD lxi#9999
-
 # lxi
 
 <p align="center">
