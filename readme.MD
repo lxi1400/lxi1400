@@ -12,7 +12,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
 
 # Contact
-lxi#0001 - Discord </br>
+lxi#7522 - Discord </br>
 lxi1400 - Snap </br>
 @lxi1400 - Telegram </br>
 @lxi1400 - Instagram </br>
