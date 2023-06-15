@@ -1,22 +1,26 @@
-# lxi
+# Hi there, I'm lxi1400! 👋
 
-<p align="center">
-  <a href="https://github.com/lxi1400">
-    <img src="https://discord.c99.nl/widget/theme-4/875757930799038475.png"/>
-     </a>
-</p>
+Welcome to my GitHub profile! Here are some cool statistics about my coding journey:
 
-# Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=lxi1400&layout=compact&theme=dark) 
-</br>
-![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=lxi1400) ![Followers](https://img.shields.io/github/followers/lxi1400?style=social)
 
-# Contact
-@lxi1400 - Telegram </br>
+## 📊 GitHub Stats
 
-# lxi#1400
-<p align="center">
-  <a href="https://github.com/lxi1400">
-    <img src="https://data.whicdn.com/images/353981537/original.gif"/>
-     </a>
-</p>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=radical)
+
+## 🌟 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxi1400&theme=radical)
+
+## ⚡ Recent Activity
+
+
+## 📫 Let's Connect
+
+You can find me on other platforms as well:
+
+- [Telegram](https://t.me/lxi1400)
+- [Twitter](https://twitter.com/lxi1400)
+
+Feel free to connect with me! I'm always excited to meet fellow developers.
+
